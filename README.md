@@ -32,7 +32,7 @@
 
 
 
-6. Reatribua valor para a variável acima,colocando dentro dela o objeto student da questão 4. (Não copiar e colar o ojeto, mas usar o objeto riado e inserir ele no Array)
+6. Reatribua valor para a variável acima,colocando dentro dela o objeto student da questão 4. (Não copiar e colar o objeto, mas usar o objeto criado e inserir ele no Array)
 
 
 
