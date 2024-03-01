@@ -1,4 +1,4 @@
-# ExerciciosAula02
+# ExerciciosAula03
 
 1. Declare uma variável de nome weight
 
