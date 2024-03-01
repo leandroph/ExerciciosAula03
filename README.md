@@ -9,7 +9,7 @@
 3. Declare uma variável e atribua valores para cada um dos dados:
    * name: String
    * age: Number (integer)
-   * stars: Number (flaot)
+   * weight: Number (flaot)
    * isSubscribed: Boolean
 
 
